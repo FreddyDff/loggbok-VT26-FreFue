@@ -53,6 +53,7 @@ Jag har valt denna nyhet för att jag tycker det är fasinerande hur långt vi h
 I och för sig måste vara uppriktig och säga att det är lite skrämmande att släppa in något sådant i din personliga laptop eller dator då man ännu inte vet vad som kan ske.
 Man vet aldrig vad den får för sig om du skulle släppa fria tyglar på den så det gäller att verkligen stadga regler och lagar om vad som gäller för en respektive Clawdbot. 
 
+Vecka 12
 
 ## Wordpress Grubbarbete
 
@@ -68,5 +69,31 @@ Joel och Erika kommer att ha hand om skissen.
 Vi har haft morgonmöten från måndag till Onsdag kl 09:00.
 Tycker att det gått bra med gruppen inget är fläckfritt men tycker att tillsammans har vi funnit lösningar som fungerar för oss.
 
-Än så länge har allt gått enligt planerna, och vi är överens om allt praktiskt taget.
+Än så länge har allt gått enligt planerna, och vi är överens om allt som vi gemensamt har tagit fram.
+
+
+Vecka 13
+
+## Vecka inför redovisning
+
+Tycker att vi jobbat på bra, känner att jag lärt mig en ny del utav WP Engine local, och wordpress, samt pluginsen så som Query Monitor, Woocommerce, och andra plugins som kanske är lika frekventa vid användning men nödvändiga. 
+
+Man känner spänning inför redovisningarna som alltid men det är lite ännu mer spännande att presentera det i grupp. Känner att vi gjort ett gott jobb allihop som varit i grupp e och ingen har liksom gett upp utan kämpat in i det sista, trots känslor utav hopplöshet ibland :D. 
+
+---
+
+Hur jag känner efter presentation och redovisning!
+
+Jag tycker att allt som allt så har det gått bra, har verkligen jobbat för gruppen för att få de att känna sig bekväma med vårt projekt därmed hemsidan.
+Det finns klara förbättringar gällande tema, men det den största konflikten med mig själv var att verkligen förstå uppdelningen utav rollerna, att jag coh felix hade hand om Temat och styling och inget annat. Istället fokuserade jag på allt både innehåll, tema, styling, design, och det blev bara rörigt.
+Jag har lärt mig nya saker även i detta projekt. Och jag vet att det är inte lätt att jobba i grupp och få skeppet att styra åt samma håll känner jag endå att vi lyckas komma med något. Är vi alla nöjda nej det tror jag inte, även jag ifrågasätter mitt arbete med temat hade jag fått göra om och göra rätt som man brukar säga så hade det första varit att förstå min roll och jobba efter det. Mattias informerade mig häromdagen att det jag gjort är över den nivån som egentligen behövdes. Han förklarade för mig tydligt vad jag gjorde och där klickade det för mig. Jag jobbade som om jag vore ensam ägare till hemsidan, och tänkte också utefter de mindsetet, och det var där det blev trubbel för mig, jag började skapade php filer i vår kod, och det hade varit ok om man byggt en hemsida för en kund som kan koda, och har erfarenhet inom det, Men tanken var ju att jobba som i grupp och därmed inte skapa något i VS Code förutom styling, allt annat skulle ske via wordpress. 
+
+Jag har lärt mig en stor läxa från detta projekt för framtiden och förstår nu WP Eninge (local), Wordpress, även pluginsen vi har använt oss utav, samt nya saker inom css.
+
+Jag som programmerare/utvecklare är nöjd trots allt med det som vi visat. Och Joel är en naturlig ledare, Vi alla har gjort misstag i detta projekt och det viktiga är att vi stått för misstag korrigerat och kämpat tillsammans inte gett upp.
+
+
+
+Jag vill tacka Mattias Lager för all hjälp som han bidragit med, så som förklaringar, idéer, m.m 
+Och jag vill tacka min grupp för tålamodet de haft.
 
